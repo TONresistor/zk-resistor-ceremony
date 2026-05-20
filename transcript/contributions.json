@@ -2,7 +2,10 @@
   "ceremony": "ZKResistor trusted setup",
   "curve": "bls12-381",
   "power": 16,
-  "circuits": ["insert", "withdraw"],
+  "circuits": [
+    "insert",
+    "withdraw"
+  ],
   "contributions": [
     {
       "stage": "phase1",
@@ -12,6 +15,16 @@
       "ptau": "phase1/pot_0000_initial.ptau",
       "ptau_hash": "sha256:528ee96e5cec968a2e98704a9c0aae32c92fd81b434d3ef7df8b20ed1419d550",
       "attestation": null
+    },
+    {
+      "stage": "phase1",
+      "slot": 1,
+      "name": "TONresistor",
+      "timestamp": "2026-05-20T15:47:47Z",
+      "ptau": "phase1/pot_0001_TONresistor.ptau",
+      "ptau_hash": "sha256:4bbf724a1d414c30932716bc137b39e5968c981d95d6d3f24f87e44277273317",
+      "attestation": "contributors/TONresistor.attestation.md",
+      "repo_commit": "e501a048000a96119a168db492748f4318894187"
     }
   ]
 }
