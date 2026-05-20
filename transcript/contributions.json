@@ -25,6 +25,16 @@
       "ptau_hash": "sha256:4bbf724a1d414c30932716bc137b39e5968c981d95d6d3f24f87e44277273317",
       "attestation": "contributors/TONresistor.attestation.md",
       "repo_commit": "e501a048000a96119a168db492748f4318894187"
+    },
+    {
+      "stage": "phase1",
+      "slot": 2,
+      "name": "mirka",
+      "timestamp": "2026-05-20T21:14:59Z",
+      "ptau": "phase1/pot_0002_mirka.ptau",
+      "ptau_hash": "sha256:f9242f8b1a869e58af38344d1ec8846d103ea5ce914c1fa39fda0c8613d425f3",
+      "attestation": "contributors/mirka.attestation.md",
+      "repo_commit": "0179bd65eb1ee9a4f32fa7c05318dcbd2211a98b"
     }
   ]
 }
