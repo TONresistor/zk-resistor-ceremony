@@ -35,6 +35,16 @@
       "ptau_hash": "sha256:f9242f8b1a869e58af38344d1ec8846d103ea5ce914c1fa39fda0c8613d425f3",
       "attestation": "contributors/mirka.attestation.md",
       "repo_commit": "0179bd65eb1ee9a4f32fa7c05318dcbd2211a98b"
+    },
+    {
+      "stage": "phase1",
+      "slot": 3,
+      "name": "tonnelddump",
+      "timestamp": "2026-05-21T11:58:20Z",
+      "ptau": "phase1/pot_0003_tonnelddump.ptau",
+      "ptau_hash": "sha256:dc3cf10c9896af8a2b7a1ff85fb9b958aaaa6e99d105843c55fb5ed7e8496326",
+      "attestation": "contributors/tonnelddump.attestation.md",
+      "repo_commit": "b4f528d9530955842a5c9b646cffb0557ff632e9"
     }
   ]
 }
