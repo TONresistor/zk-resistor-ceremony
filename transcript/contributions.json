@@ -45,6 +45,16 @@
       "ptau_hash": "sha256:dc3cf10c9896af8a2b7a1ff85fb9b958aaaa6e99d105843c55fb5ed7e8496326",
       "attestation": "contributors/tonnelddump.attestation.md",
       "repo_commit": "b4f528d9530955842a5c9b646cffb0557ff632e9"
+    },
+    {
+      "stage": "phase1",
+      "slot": 4,
+      "name": "enlighTON",
+      "timestamp": "2026-05-22T10:03:52Z",
+      "ptau": "phase1/pot_0004_enlighTON.ptau",
+      "ptau_hash": "sha256:af10fbe3433684894ca16e9d8914f5dea61ebadb2b058215fe1fc7bbf0529192",
+      "attestation": "contributors/enlighTON.attestation.md",
+      "repo_commit": "df222a9b211994b4858970f25bae2750a98cb5f5"
     }
   ]
 }
