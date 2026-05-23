@@ -19,7 +19,7 @@ git clone https://github.com/<YOUR_USERNAME>/zk-resistor-ceremony.git
 cd zk-resistor-ceremony
 git remote add upstream https://github.com/TONresistor/zk-resistor-ceremony.git
 docker build -t zkr-ceremony .
-docker run -it --rm --user "$(id -u):$(id -g)" -e HOME=/tmp -v "$PWD:/work" -w /work zkr-ceremony bash
+docker run -it --rm --user "$(id -u):$(id -g)" -e HOME=/tmp -v "$PWD:/work" -w /work --network none zkr-ceremony bash
 ```
 
 All remaining commands run inside the container, except step 4.
