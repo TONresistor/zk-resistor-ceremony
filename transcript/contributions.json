@@ -55,6 +55,16 @@
       "ptau_hash": "sha256:af10fbe3433684894ca16e9d8914f5dea61ebadb2b058215fe1fc7bbf0529192",
       "attestation": "contributors/enlighTON.attestation.md",
       "repo_commit": "df222a9b211994b4858970f25bae2750a98cb5f5"
+    },
+    {
+      "stage": "phase1",
+      "slot": 5,
+      "name": "mr-tron",
+      "timestamp": "2026-05-23T10:44:51Z",
+      "ptau": "phase1/pot_0005_mr-tron.ptau",
+      "ptau_hash": "sha256:394deb0edc82139fb624879fcc2c936fb00818cb808d7e9f88e57800f58f1ec8",
+      "attestation": "contributors/mr-tron.attestation.md",
+      "repo_commit": "1c5b58cdfaf0887487bb153ba02ea1a524bea687"
     }
   ]
 }
