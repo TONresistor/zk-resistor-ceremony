@@ -45,6 +45,16 @@
       "ptau_hash": "sha256:dc3cf10c9896af8a2b7a1ff85fb9b958aaaa6e99d105843c55fb5ed7e8496326",
       "attestation": "contributors/tonnelddump.attestation.md",
       "repo_commit": "b4f528d9530955842a5c9b646cffb0557ff632e9"
+    },
+    {
+      "stage": "phase1",
+      "slot": 4,
+      "name": "freehacker05",
+      "timestamp": "2026-05-23T14:48:29Z",
+      "ptau": "phase1/pot_0004_freehacker05.ptau",
+      "ptau_hash": "sha256:d47290ee73098a3e57198541fb75ee6b37a1bf5691dba4995a214742dd7632ab",
+      "attestation": "contributors/freehacker05.attestation.md",
+      "repo_commit": "df222a9b211994b4858970f25bae2750a98cb5f5"
     }
   ]
 }
