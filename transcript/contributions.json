@@ -75,6 +75,16 @@
       "ptau_hash": "sha256:f2b7a34ffbe1ddb5b1b6bf818cf17e8a1d9253516820470d9e570428074d0a46",
       "attestation": "contributors/freehacker.attestation.md",
       "repo_commit": "126a4dd89f2f4df965ab6f814569ab979ccb5f38"
+    },
+    {
+      "stage": "phase1",
+      "slot": 7,
+      "name": "pkmt-commits",
+      "timestamp": "2026-05-24T18:12:03Z",
+      "ptau": "phase1/pot_0007_pkmt-commits.ptau",
+      "ptau_hash": "sha256:bb5fe016ee081e2c19082f762b6af98df358f8a7b9809b9f2610a3931e2f9ac8",
+      "attestation": "contributors/pkmt-commits.attestation.md",
+      "repo_commit": "6f56c5461c6fa00bd59d60bc65a98209af0a36cc"
     }
   ]
 }
