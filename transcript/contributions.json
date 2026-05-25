@@ -105,6 +105,16 @@
       "ptau_hash": "sha256:2190ab73cb39670f45a9ddbcaa2717dd2723c5f39d703e8bab8952f542f8c420",
       "attestation": "contributors/tonnel-sectarian.attestation.md",
       "repo_commit": "fb2c08f295e2db3296fdb3babcc0a73632963b9d"
+    },
+    {
+      "stage": "phase1",
+      "slot": 10,
+      "name": "freebielife",
+      "timestamp": "2026-05-25T17:37:54Z",
+      "ptau": "phase1/pot_0010_freebielife.ptau",
+      "ptau_hash": "sha256:9a9de3e37872f651d26345e0086a54f54a76ce986c3979613243de1033bb37e1",
+      "attestation": "contributors/freebielife.attestation.md",
+      "repo_commit": "c66a91334903ce82487bea6d11f68ebeab7dc232"
     }
   ]
 }
