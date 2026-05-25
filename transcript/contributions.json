@@ -95,6 +95,16 @@
       "ptau_hash": "sha256:75293f73b3039bcc5e52397966bb2873357e1986763959ba0ebf045623b79e96",
       "attestation": "contributors/mnemotiv.attestation.md",
       "repo_commit": "3355e9d72ba2602ee84f3538af40fb6502fef930"
+    },
+    {
+      "stage": "phase1",
+      "slot": 9,
+      "name": "tonnel-sectarian",
+      "timestamp": "2026-05-25T13:46:24Z",
+      "ptau": "phase1/pot_0009_tonnel-sectarian.ptau",
+      "ptau_hash": "sha256:2190ab73cb39670f45a9ddbcaa2717dd2723c5f39d703e8bab8952f542f8c420",
+      "attestation": "contributors/tonnel-sectarian.attestation.md",
+      "repo_commit": "fb2c08f295e2db3296fdb3babcc0a73632963b9d"
     }
   ]
 }
