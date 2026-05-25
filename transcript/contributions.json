@@ -85,6 +85,16 @@
       "ptau_hash": "sha256:bb5fe016ee081e2c19082f762b6af98df358f8a7b9809b9f2610a3931e2f9ac8",
       "attestation": "contributors/pkmt-commits.attestation.md",
       "repo_commit": "6f56c5461c6fa00bd59d60bc65a98209af0a36cc"
+    },
+    {
+      "stage": "phase1",
+      "slot": 8,
+      "name": "mnemotiv",
+      "timestamp": "2026-05-25T09:49:07Z",
+      "ptau": "phase1/pot_0008_mnemotiv.ptau",
+      "ptau_hash": "sha256:75293f73b3039bcc5e52397966bb2873357e1986763959ba0ebf045623b79e96",
+      "attestation": "contributors/mnemotiv.attestation.md",
+      "repo_commit": "3355e9d72ba2602ee84f3538af40fb6502fef930"
     }
   ]
 }
