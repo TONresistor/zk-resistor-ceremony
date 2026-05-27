@@ -115,6 +115,16 @@
       "ptau_hash": "sha256:9a9de3e37872f651d26345e0086a54f54a76ce986c3979613243de1033bb37e1",
       "attestation": "contributors/freebielife.attestation.md",
       "repo_commit": "c66a91334903ce82487bea6d11f68ebeab7dc232"
+    },
+    {
+      "stage": "phase1",
+      "slot": 11,
+      "name": "cryptopjes",
+      "timestamp": "2026-05-27T18:59:25Z",
+      "ptau": "phase1/pot_0011_cryptopjes.ptau",
+      "ptau_hash": "sha256:3c78bd96f32df50c9ac18f29c676ba67307414b2b6297e6f2b37a0c870bff244",
+      "attestation": "contributors/cryptopjes.attestation.md",
+      "repo_commit": "0f6e8505cc943065498272d278c28b8152d5be37"
     }
   ]
 }
