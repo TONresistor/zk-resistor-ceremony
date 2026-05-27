@@ -2,9 +2,9 @@
 
 I, **freebielife**, attest:
 
-1. I contributed entropy to **phase1 slot 10** of the ZKResistor
-   trusted setup on **2026-05-25T17:37:54Z**, building on repo commit
-   `c66a91334903ce82487bea6d11f68ebeab7dc232`.
+1. I contributed entropy to **phase1 slot 11** of the ZKResistor
+   trusted setup on **2026-05-27T16:15:17Z**, building on repo commit
+   `0f6e8505cc943065498272d278c28b8152d5be37`.
 
 2. The files I produced and their SHA-256 hashes are the ones recorded under
    that (stage, slot) entry in `transcript/contributions.json`.
@@ -16,7 +16,7 @@ I, **freebielife**, attest:
    I attest in good faith to being that contributor.
 
 Signed: **freebielife**
-Date: **2026-05-25T17:37:54Z**
+Date: **2026-05-27T16:15:17Z**
 
 <!--
 To sign, either GPG-clearsign this file:
