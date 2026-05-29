@@ -125,6 +125,16 @@
       "ptau_hash": "sha256:3c78bd96f32df50c9ac18f29c676ba67307414b2b6297e6f2b37a0c870bff244",
       "attestation": "contributors/cryptopjes.attestation.md",
       "repo_commit": "0f6e8505cc943065498272d278c28b8152d5be37"
+    },
+    {
+      "stage": "phase1",
+      "slot": 12,
+      "name": "mysteryon88",
+      "timestamp": "2026-05-29T18:05:00Z",
+      "ptau": "phase1/pot_0012_mysteryon88.ptau",
+      "ptau_hash": "sha256:9d90829c3b3434083e61a68c2e6f709b4e1b1eb447a2a05c8d113a93ca023b9b",
+      "attestation": "contributors/mysteryon88.attestation.md",
+      "repo_commit": "01546acb24b54d8620eeb4379e7102c1687dabc5"
     }
   ]
 }
