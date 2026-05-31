@@ -155,6 +155,16 @@
       "ptau_hash": "sha256:278e4d7abaf399df092f173c927b1a0afb41df1a6f7e7df89f409abd5b908d6c",
       "attestation": "contributors/LapisMYT.attestation.md",
       "repo_commit": "cbda5196b43bbb568cb488aca99241ad30db72a8"
+    },
+    {
+      "stage": "phase1",
+      "slot": 15,
+      "name": "Zeosp",
+      "timestamp": "2026-05-31T13:16:57Z",
+      "ptau": "phase1/pot_0015_Zeosp.ptau",
+      "ptau_hash": "sha256:a1fde38fdc55fa701671a93d2d0006f48babbff4dccbfd6d8fc34eeb9b570e49",
+      "attestation": "contributors/Zeosp.attestation.md",
+      "repo_commit": "c9c16b95617b907de4dd6aa4985f70d84623540d"
     }
   ]
 }
