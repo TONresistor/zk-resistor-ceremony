@@ -145,6 +145,16 @@
       "ptau_hash": "sha256:2a927513fd9a1bbc9523494e69c295465e8b747d5d539d0fe45748dbdc917b36",
       "attestation": "contributors/renovatio.attestation.md",
       "repo_commit": "8d9e6c727bfee3d73abda8c4176e8aea26aa893e"
+    },
+    {
+      "stage": "phase1",
+      "slot": 14,
+      "name": "LapisMYT",
+      "timestamp": "2026-05-31T11:45:28Z",
+      "ptau": "phase1/pot_0014_LapisMYT.ptau",
+      "ptau_hash": "sha256:278e4d7abaf399df092f173c927b1a0afb41df1a6f7e7df89f409abd5b908d6c",
+      "attestation": "contributors/LapisMYT.attestation.md",
+      "repo_commit": "cbda5196b43bbb568cb488aca99241ad30db72a8"
     }
   ]
 }
