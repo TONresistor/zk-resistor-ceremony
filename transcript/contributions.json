@@ -145,6 +145,16 @@
       "ptau_hash": "sha256:2a927513fd9a1bbc9523494e69c295465e8b747d5d539d0fe45748dbdc917b36",
       "attestation": "contributors/renovatio.attestation.md",
       "repo_commit": "8d9e6c727bfee3d73abda8c4176e8aea26aa893e"
+    },
+    {
+      "stage": "phase1",
+      "slot": 14,
+      "name": "aloeidae",
+      "timestamp": "2026-05-31T12:50:46Z",
+      "ptau": "phase1/pot_0014_aloeidae.ptau",
+      "ptau_hash": "sha256:9904380d68d9981fbff37dc08144607d37d8f49835d8a8d4edd803e032c27688",
+      "attestation": "contributors/aloeidae.attestation.md",
+      "repo_commit": "cbda5196b43bbb568cb488aca99241ad30db72a8"
     }
   ]
 }
