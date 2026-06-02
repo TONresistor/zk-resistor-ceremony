@@ -175,6 +175,16 @@
       "ptau_hash": "sha256:b569555a0fa8ce3da1d9f080980a55767164dededafb4fe7ddc30e002d2dbe7a",
       "attestation": "contributors/wlaDICK.attestation.md",
       "repo_commit": "47747e99ee835bff8f9ce63150fbe6d5ab0e71f1"
+    },
+    {
+      "stage": "phase1",
+      "slot": 17,
+      "name": "Benbased0x",
+      "timestamp": "2026-06-02T05:29:19Z",
+      "ptau": "phase1/pot_0017_Benbased0x.ptau",
+      "ptau_hash": "sha256:ba0cfbde735954930da22fae490367438f2afe4793660e476ae585f6de4b5248",
+      "attestation": "contributors/Benbased0x.attestation.md",
+      "repo_commit": "f9bcc6b8dcec2890ffc1bf6e2d27310284552e6d"
     }
   ]
 }
