@@ -195,6 +195,16 @@
       "ptau_hash": "sha256:7262afad770c18c5d061622ed2329d7f12d6d7150aeb1fbb7306820716becb08",
       "attestation": "contributors/Aloeidae.attestation.md",
       "repo_commit": "9423ddc52d1a6f98de2b3e4f1fe9a89387c882a7"
+    },
+    {
+      "stage": "phase1",
+      "slot": 19,
+      "name": "whicencer",
+      "timestamp": "2026-06-03T15:12:47Z",
+      "ptau": "phase1/pot_0019_whicencer.ptau",
+      "ptau_hash": "sha256:68d1d6ff443c7f223680ff862e33badf1db22020e8b49c8820815f11ad76e8be",
+      "attestation": "contributors/whicencer.attestation.md",
+      "repo_commit": "uncommitted"
     }
   ]
 }
