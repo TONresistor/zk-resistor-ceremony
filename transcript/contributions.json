@@ -205,6 +205,26 @@
       "ptau_hash": "sha256:68d1d6ff443c7f223680ff862e33badf1db22020e8b49c8820815f11ad76e8be",
       "attestation": "contributors/whicencer.attestation.md",
       "repo_commit": "uncommitted"
+    },
+    {
+      "stage": "phase1",
+      "slot": 20,
+      "name": "Yolkythegg",
+      "timestamp": "2026-06-04T17:43:16Z",
+      "ptau": "phase1/pot_0020_Yolkythegg.ptau",
+      "ptau_hash": "sha256:5fffa1b673fe0b7933ed5c1a14eb4e79388b853112ffa9e92e49c08c5a6d9291",
+      "attestation": "contributors/Yolkythegg.attestation.md",
+      "repo_commit": "uncommitted"
+    },
+    {
+      "stage": "phase1",
+      "slot": 21,
+      "name": "Yolkythegg",
+      "timestamp": "2026-06-04T17:45:05Z",
+      "ptau": "phase1/pot_0021_Yolkythegg.ptau",
+      "ptau_hash": "sha256:b3fddb6bfbd28dd2264fe9cb2d8989434f22fd5ffbee19af1f37b98a7e286a0a",
+      "attestation": "contributors/Yolkythegg.attestation.md",
+      "repo_commit": "uncommitted"
     }
   ]
 }
