@@ -215,6 +215,16 @@
       "ptau_hash": "sha256:fc082b1a5a48b36c7e0a05bd5b1cc962a365dcd32c57e523bd4e40c86b769daf",
       "attestation": "contributors/NowItsOurTurn.attestation.md",
       "repo_commit": "c234b9e258e2aa294936ee866efe0f1df2de2307"
+    },
+    {
+      "stage": "phase1",
+      "slot": 21,
+      "name": "ancientdoge",
+      "timestamp": "2026-06-11T09:35:14Z",
+      "ptau": "phase1/pot_0021_ancientdoge.ptau",
+      "ptau_hash": "sha256:c674b6ce8bd57f1813d346e93e9a630da85b61267e43eebdfdc8725080d287f6",
+      "attestation": "contributors/ancientdoge.attestation.md",
+      "repo_commit": "7257b1ed53ff895402b525623d92ce0732908386"
     }
   ]
 }
