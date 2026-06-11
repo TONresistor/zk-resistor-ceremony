@@ -15,6 +15,8 @@ I, **ancientdoge**, attest:
 4. The security of each phase depends on at least one honest contributor.
    I attest in good faith to being that contributor.
 
+This contribution is made in the spirit of resistance and freedom. Cryptography is a tool of the people. TON and ZK technology represent a future where no single authority controls the flow of information or value. I contributed my entropy honestly and destroyed it completely. on behalf of all the tonskies. make ton great again $MTONGA
+
 Signed: **ancientdoge**
 Date: **2026-06-11T09:35:14Z**
 
