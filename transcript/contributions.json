@@ -225,6 +225,16 @@
       "ptau_hash": "sha256:c674b6ce8bd57f1813d346e93e9a630da85b61267e43eebdfdc8725080d287f6",
       "attestation": "contributors/ancientdoge.attestation.md",
       "repo_commit": "7257b1ed53ff895402b525623d92ce0732908386"
+    },
+    {
+      "stage": "phase1",
+      "slot": 22,
+      "name": "inozemtsev-roman",
+      "timestamp": "2026-06-18T13:30:35Z",
+      "ptau": "phase1/pot_0022_inozemtsev-roman.ptau",
+      "ptau_hash": "sha256:f8438ea847475f5f016ed171434916d535dcf429a4ffedac88e76b67f4f7df33",
+      "attestation": "contributors/inozemtsev-roman.attestation.md",
+      "repo_commit": "b85d02b1835b70b00b55be2b01f0e26f3f5f0ea3"
     }
   ]
 }
