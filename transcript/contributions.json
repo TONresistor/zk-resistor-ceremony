@@ -279,6 +279,18 @@
       "withdraw_zkey_hash": "sha256:6cd72d544ad34ebac5430a73a12e1676ec00abfbbcb0f9b00438abcce4f83950",
       "attestation": "contributors/TONresistor-p2.attestation.md",
       "repo_commit": "b8a64b3e8c47b0e944e5d0d4f3f58dd65cf4cae8"
+    },
+    {
+      "stage": "phase2",
+      "slot": 2,
+      "name": "tonnelddump-p2",
+      "timestamp": "2026-06-21T22:27:07Z",
+      "insert_zkey": "phase2/insert_0002_tonnelddump-p2.zkey",
+      "withdraw_zkey": "phase2/withdraw_0002_tonnelddump-p2.zkey",
+      "insert_zkey_hash": "sha256:36713c312c613aa2a5cb6199393990277c994bcba5c7b9bcb775d19fe7578228",
+      "withdraw_zkey_hash": "sha256:d33904cb3ba1380d14cde5445ba074eacbd601dd35f53f0986a42aceb31925d2",
+      "attestation": "contributors/tonnelddump-p2.attestation.md",
+      "repo_commit": "8e137e17fd8143e19da7d3d6e51fa20744d8b0d6"
     }
   ]
 }
