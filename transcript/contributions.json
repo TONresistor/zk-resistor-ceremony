@@ -279,6 +279,18 @@
       "withdraw_zkey_hash": "sha256:6cd72d544ad34ebac5430a73a12e1676ec00abfbbcb0f9b00438abcce4f83950",
       "attestation": "contributors/TONresistor-p2.attestation.md",
       "repo_commit": "b8a64b3e8c47b0e944e5d0d4f3f58dd65cf4cae8"
+    },
+    {
+      "stage": "phase2",
+      "slot": 2,
+      "name": "renovatio",
+      "timestamp": "2026-06-21T18:40:35Z",
+      "insert_zkey": "phase2/insert_0002_renovatio.zkey",
+      "withdraw_zkey": "phase2/withdraw_0002_renovatio.zkey",
+      "insert_zkey_hash": "sha256:da88b07cb7427c6bbe4fe9207f34db5d2759333c55b3f0cf56c96d9919e4b2f0",
+      "withdraw_zkey_hash": "sha256:ba26f9e7598ec5450cce28674f6ff808fd54065e57d53e758cb184399d6e03f0",
+      "attestation": "contributors/renovatio.attestation.md",
+      "repo_commit": "e42ddad46cfa1dd54281d614cf191acac9ccffdf"
     }
   ]
 }
