@@ -291,6 +291,18 @@
       "withdraw_zkey_hash": "sha256:4fa2713374ae1d9aa5452678b4473ee2605f8073a4b6b0f3006038da83ad3681",
       "attestation": "contributors/Benbased0x.attestation.md",
       "repo_commit": "e42ddad46cfa1dd54281d614cf191acac9ccffdf"
+    },
+    {
+      "stage": "phase2",
+      "slot": 3,
+      "name": "Benbased0x",
+      "timestamp": "2026-06-21T20:38:32Z",
+      "insert_zkey": "phase2/insert_0003_Benbased0x.zkey",
+      "withdraw_zkey": "phase2/withdraw_0003_Benbased0x.zkey",
+      "insert_zkey_hash": "sha256:faea5b36ab0553f42570f32eac88e2623698c74b87635a9f4c0d9d70811e1a36",
+      "withdraw_zkey_hash": "sha256:dce64b13e486876e63b9848827305a734903eed63bfab8d3fa6820ff3e12085a",
+      "attestation": "contributors/Benbased0x.attestation.md",
+      "repo_commit": "f7365c7f53b7c4b45fa7ec968582760c9c384618"
     }
   ]
 }
