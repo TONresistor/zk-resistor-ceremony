@@ -303,6 +303,18 @@
       "withdraw_zkey_hash": "sha256:8e32c4ca2ce0bfa8da9bc4fa2ecb489e958a6c13da1c16da6df5bbe108963d7a",
       "attestation": "contributors/Benbased0x-p2.attestation.md",
       "repo_commit": "17cd94066d0becc4a8eb431a7504fd363d14f96b"
+    },
+    {
+      "stage": "phase2",
+      "slot": 4,
+      "name": "renovatio-p2",
+      "timestamp": "2026-06-22T05:53:23Z",
+      "insert_zkey": "phase2/insert_0004_renovatio-p2.zkey",
+      "withdraw_zkey": "phase2/withdraw_0004_renovatio-p2.zkey",
+      "insert_zkey_hash": "sha256:e0e2ece5a49490acea591bbd4cdb7e836315f2bc9dfc2644afd1507459d0229e",
+      "withdraw_zkey_hash": "sha256:7069097179e492dd6bd3aa4f0e984235bc62b5ce128b48a34a3ef3986a96af3f",
+      "attestation": "contributors/renovatio-p2.attestation.md",
+      "repo_commit": "91b06af67a54ac3c1eb980e15d31667b6427f967"
     }
   ]
 }
