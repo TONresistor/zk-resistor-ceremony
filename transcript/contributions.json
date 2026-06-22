@@ -291,6 +291,18 @@
       "withdraw_zkey_hash": "sha256:d33904cb3ba1380d14cde5445ba074eacbd601dd35f53f0986a42aceb31925d2",
       "attestation": "contributors/tonnelddump-p2.attestation.md",
       "repo_commit": "8e137e17fd8143e19da7d3d6e51fa20744d8b0d6"
+    },
+    {
+      "stage": "phase2",
+      "slot": 3,
+      "name": "Benbased0x-p2",
+      "timestamp": "2026-06-22T04:16:50Z",
+      "insert_zkey": "phase2/insert_0003_Benbased0x-p2.zkey",
+      "withdraw_zkey": "phase2/withdraw_0003_Benbased0x-p2.zkey",
+      "insert_zkey_hash": "sha256:287690a62ff9eb68bc698a3a266e4cfc975e89e8454e1cff2e621284a0d22538",
+      "withdraw_zkey_hash": "sha256:8e32c4ca2ce0bfa8da9bc4fa2ecb489e958a6c13da1c16da6df5bbe108963d7a",
+      "attestation": "contributors/Benbased0x-p2.attestation.md",
+      "repo_commit": "17cd94066d0becc4a8eb431a7504fd363d14f96b"
     }
   ]
 }
