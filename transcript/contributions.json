@@ -327,6 +327,18 @@
       "withdraw_zkey_hash": "sha256:4378bcff57b0f7e2840ff5b6b9ed9ef0fc26234d6c83b8a309dcd9e00ba92b85",
       "attestation": "contributors/NowItsOurTurn-p2.attestation.md",
       "repo_commit": "de9f4c17b8a1add23795fb22ff56f583037ad319"
+    },
+    {
+      "stage": "phase2",
+      "slot": 6,
+      "name": "mnemotiv-p2",
+      "timestamp": "2026-06-28T11:22:23Z",
+      "insert_zkey": "phase2/insert_0006_mnemotiv-p2.zkey",
+      "withdraw_zkey": "phase2/withdraw_0006_mnemotiv-p2.zkey",
+      "insert_zkey_hash": "sha256:f0e2bc6816763ca3649ec7a26ab8e8888da40b4e44560a36b052bcee623136dd",
+      "withdraw_zkey_hash": "sha256:49eab014a9cd9659aba65e9d015925650714d353ac299ef43198258a175faf83",
+      "attestation": "contributors/mnemotiv-p2.attestation.md",
+      "repo_commit": "66bcaa12f2b7487890a7f32a80d87f6fc6d087bd"
     }
   ]
 }
