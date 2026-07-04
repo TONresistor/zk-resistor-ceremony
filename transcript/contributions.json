@@ -351,6 +351,18 @@
       "withdraw_zkey_hash": "sha256:69c8c29540efe8876b3499c5e8315395da23879844dcdedbd23bd6c9ff5cbeb7",
       "attestation": "contributors/inozemtsev-roman-p2.attestation.md",
       "repo_commit": "c9cfaabec1ca2cd4ed0775d821d8442e3584e6b4"
+    },
+    {
+      "stage": "phase2",
+      "slot": 8,
+      "name": "enlighTON-p2",
+      "timestamp": "2026-07-04T13:58:26Z",
+      "insert_zkey": "phase2/insert_0008_enlighTON-p2.zkey",
+      "withdraw_zkey": "phase2/withdraw_0008_enlighTON-p2.zkey",
+      "insert_zkey_hash": "sha256:54758383c6653482d74ade42d69b477b13af2713ab5c9ad6dfe60f19c03a7584",
+      "withdraw_zkey_hash": "sha256:aca034811cdcf0684e7b30f61252196f700279a97f0eca6c303ce198234da0a5",
+      "attestation": "contributors/enlighTON-p2.attestation.md",
+      "repo_commit": "c42980b483ed6be89d1f0106c8ce27a888966dd3"
     }
   ]
 }
