@@ -363,6 +363,18 @@
       "withdraw_zkey_hash": "sha256:aca034811cdcf0684e7b30f61252196f700279a97f0eca6c303ce198234da0a5",
       "attestation": "contributors/enlighTON-p2.attestation.md",
       "repo_commit": "c42980b483ed6be89d1f0106c8ce27a888966dd3"
+    },
+    {
+      "stage": "phase2",
+      "slot": 9,
+      "name": "whicencer-p2",
+      "timestamp": "2026-07-05T15:34:29Z",
+      "insert_zkey": "phase2/insert_0009_whicencer-p2.zkey",
+      "withdraw_zkey": "phase2/withdraw_0009_whicencer-p2.zkey",
+      "insert_zkey_hash": "sha256:0ca7f4f5c3cff52dbbcf9b677a8697e40e46629efe5d8ffb8a18f3ae11555665",
+      "withdraw_zkey_hash": "sha256:24028e9640ca24b975b62ace4f14023bcee928a7902474beb141e2278b4dcdf8",
+      "attestation": "contributors/whicencer-p2.attestation.md",
+      "repo_commit": "36eb8c25aab73b2f397db2b96fa623415623460d"
     }
   ]
 }
