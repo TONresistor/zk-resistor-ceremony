@@ -375,6 +375,18 @@
       "withdraw_zkey_hash": "sha256:24028e9640ca24b975b62ace4f14023bcee928a7902474beb141e2278b4dcdf8",
       "attestation": "contributors/whicencer-p2.attestation.md",
       "repo_commit": "36eb8c25aab73b2f397db2b96fa623415623460d"
+    },
+    {
+      "stage": "phase2",
+      "slot": 10,
+      "name": "cryptopjes-p2",
+      "timestamp": "2026-07-06T19:42:27Z",
+      "insert_zkey": "phase2/insert_0010_cryptopjes-p2.zkey",
+      "withdraw_zkey": "phase2/withdraw_0010_cryptopjes-p2.zkey",
+      "insert_zkey_hash": "sha256:c3e086fef0b07aab3105fd5fc31fdc627f37825283320b32d574ce708bc0b9d8",
+      "withdraw_zkey_hash": "sha256:8b60ef17f4e29635454aa4faa44e1bcbd90560e240073782c8505c2a9d1f3b36",
+      "attestation": "contributors/cryptopjes-p2.attestation.md",
+      "repo_commit": "999c1cedd5cd6eed5c6e71e367ab4790e2d9d813"
     }
   ]
 }
