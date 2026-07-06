@@ -387,6 +387,18 @@
       "withdraw_zkey_hash": "sha256:928b93daacb11d5b3e4e77c2695d2f346a34a3aa3e241c15892bd63539a371ae",
       "attestation": "contributors/lme73527-p2.attestation.md",
       "repo_commit": "999c1cedd5cd6eed5c6e71e367ab4790e2d9d813"
+    },
+    {
+      "stage": "phase2",
+      "slot": 11,
+      "name": "cryptopjes-p2",
+      "timestamp": "2026-07-06T21:52:18Z",
+      "insert_zkey": "phase2/insert_0011_cryptopjes-p2.zkey",
+      "withdraw_zkey": "phase2/withdraw_0011_cryptopjes-p2.zkey",
+      "insert_zkey_hash": "sha256:4756351b313506efb9f147305e1ac7f9fb2a63d53647bf6e2f4a40c9812b5cab",
+      "withdraw_zkey_hash": "sha256:7faad7e80d2c883595b40dea37aeec5cdfc0e96000bf405fcae10dd995adf357",
+      "attestation": "contributors/cryptopjes-p2.attestation.md",
+      "repo_commit": "ca8a360f47e831b429802c7a3a717afdb9c8d7b2"
     }
   ]
 }
